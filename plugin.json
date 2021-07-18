@@ -1,0 +1,7 @@
+{
+  "name": "BetterIO",
+  "author": "AnoyingShulker",
+  "main": "betterIo.main",
+  "description": "A recreation of IO's plugin",
+  "version": 1.0
+}
